@@ -1,3 +1,6 @@
+//[GOLD4] 움직이는 미로 탈출 
+// https://www.acmicpc.net/problem/16954
+
 #include<iostream>
 #include<vector>
 #include<string>
